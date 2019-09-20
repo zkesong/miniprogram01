@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "van-field": "../../static/vant-weapp/dist/field/index"
+    },
+    "navigationBarTitleText": "登录"
+}

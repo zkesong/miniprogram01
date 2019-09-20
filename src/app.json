@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/login/main",
+    "pages/index/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "携号转网登记",
+    "navigationBarTextStyle": "black"
+  }
+}
