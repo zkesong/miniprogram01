@@ -1,4 +1,4 @@
-const host = 'http://localhost:8888/'
+const host = process.env.API_BASE_URL
 function request (url, method, data, header) {
   return new Promise((resolve, reject) => {
     wx.request({
