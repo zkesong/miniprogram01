@@ -6,7 +6,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "携号转网登记",
+    "navigationBarTitleText": "号码登记",
     "navigationBarTextStyle": "black"
   }
 }
